@@ -1,0 +1,3 @@
+data/vendor
+.vagrant
+data/composer.lock
